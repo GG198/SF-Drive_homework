@@ -1,0 +1,159 @@
+button {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 12px 30px;
+
+  position: absolute;
+  width: 106px;
+  height: 43px;
+  left: 1125px;
+  border: 1px solid rgba(27, 27, 27, 0.4);
+  box-sizing: border-box;
+  border-radius: 6px;
+}
+
+section.about {
+  position: absolute;
+  width: 397px;
+  height: 300px;
+  left: 522px;
+  top: 170px;
+
+}
+
+h1 {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 64px;
+  line-height: 100%;
+  /* identical to box height, or 77px */
+
+  text-align: center;
+}
+
+.contact {
+  position: absolute;
+  width: 1440px;
+  height: 341px;
+  left: 0px;
+  top: 823px;
+
+  background: #fbf7f9;
+}
+
+.email {
+  position: absolute;
+  width: 264px;
+  height: 56px;
+  left: 557px;
+  top: 104px;
+}
+
+.phone-number {
+  position: absolute;
+  width: 264px;
+  height: 55px;
+  left: 829px;
+  top: 104px;
+}
+
+.team {
+  position: absolute;
+  width: 203px;
+  height: 58px;
+  left: 618px;
+  top: 1180px;
+}
+
+#ivan {
+  position: absolute;
+  width: 180px;
+  height: 180px;
+  left: 237px;
+  top: 1357px;
+}
+
+#alex {
+  position: absolute;
+  width: 180px;
+  height: 180px;
+  left: 498px;
+  top: 1357px;
+}
+
+#denis {
+  position: absolute;
+  width: 180px;
+  height: 180px;
+  left: 760px;
+  top: 1357px;
+}
+
+#nik {
+  position: absolute;
+  width: 180px;
+  height: 180px;
+  left: 1021px;
+  top: 1357px;
+}
+
+#irina {
+  position: absolute;
+  width: 180px;
+  height: 180px;
+  left: 498px;
+  top: 1678px;
+}
+
+#maria {
+  position: absolute;
+  width: 180px;
+  height: 180px;
+  left: 760px;
+  top: 1678px;
+}
+
+.footer {
+  position: absolute;
+  width: 1440px;
+  height: 124px;
+  left: 0px;
+  top: 2059px;
+  background-color: #3F3D56;
+}
+
+.copyright {
+  position: absolute;
+  width: 152px;
+  height: 19px;
+  left: 30px;
+  top: 92px;
+  color: white;
+}
+
+.vk {
+  position: absolute;
+  width: 32px;
+  height: 32px;
+  left: 1144px;
+  top: 85px;
+}
+
+.instagram {
+  position: absolute;
+  width: 32px;
+  height: 32px;
+  left: 1176px;
+  top: 85px;
+
+}
+
+.facebook {
+  position: absolute;
+  width: 32px;
+  height: 32px;
+  left: 1208px;
+  top: 85px;
+}
